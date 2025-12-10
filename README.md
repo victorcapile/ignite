@@ -1,5 +1,5 @@
 
-# IARA
+# Ignite
 
 ## Overview
 Blockchain-based crowdfunding application that allows users to create, fund and participate in projects with blockchain technology (as well as regular fiat money). 
@@ -30,6 +30,4 @@ Blockchain-based crowdfunding application that allows users to create, fund and 
 
 ## License
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT)
-
-![LUMO](master/client/src/assets/thirdweb3.png)
 

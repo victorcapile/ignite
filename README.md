@@ -8,21 +8,20 @@ Blockchain-based crowdfunding application that allows users to create, fund and 
 - Create a project with a funding goal and timeline
 - Accept contributions from users in various cryptocurrencies
 - Smart contract-based payout to project creators when funding goals are reached
-- 0% Taxes
+- Low Taxes
 - Hability to choose between regular fiat money and blockchain technology to what it suits the project better. 
 - Transparency of project funding and distribution via blockchain technology
 
 ## Technologies
 - Blockchain (Ethereum)
 - Smart Contracts (Solidity)
-- Web3.js
 - React.js
 - Node.js
 
 ## Getting Started
 1. Clone the repository
 2. Install dependencies with `npm install`
-3. Start the server with `npm start`
+3. Start the server with `npm run dev`
 4. Access the application at http://localhost:3000
 
 ## Contributors
